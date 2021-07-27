@@ -1,0 +1,3 @@
+icon: https://www.nocodb.com/brand/x1.png
+deploy:
+- okteto stack deploy -f docker-compose/pg/docker-compose.yml
